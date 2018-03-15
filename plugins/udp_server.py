@@ -7,7 +7,7 @@ Requires:
   - websockets
 """
 
-import cPickle as pickle
+import _pickle as pickle
 import json
 import socket
 
